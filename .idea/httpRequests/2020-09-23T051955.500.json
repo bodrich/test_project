@@ -1,0 +1,1 @@
+{"error":"json: cannot unmarshal string into Go struct field WritePerson.Sex of type uint8"}

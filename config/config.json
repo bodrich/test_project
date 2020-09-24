@@ -1,0 +1,7 @@
+{
+  "DatabaseHost": "localhost",
+  "DatabaseUser": "postgres",
+  "DatabasePassword": "1",
+  "DatabaseName": "test",
+  "WebHost": ":8080"
+}
